@@ -3,7 +3,7 @@
 // File: day_02/No_return.java
 public class No_return {
     public static void greet(String name){
-        System.out.println("Hello, "+name);
+        System.out.println("Hello, "+name+" how are you?");
     }
     public static void main(String[] args){
         greet("John");
