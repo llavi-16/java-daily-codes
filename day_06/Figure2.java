@@ -1,4 +1,4 @@
-public class Figure {
+public class Figure2 {
     public double area(double radius) {
         return Math.PI * radius * radius; // Area of circle
     }
@@ -15,7 +15,7 @@ public class Figure {
     }
 
     public static void main(String[] args) {
-        Figure figure = new Figure();
+        Figure2 figure = new Figure2();
         System.out.println("Area of Circle: " + figure.area(5));
         System.out.println("Area of Rectangle: " + figure.area(4, 6));
         System.out.println("Area of Triangle: " + figure.area(3, 4, true));
