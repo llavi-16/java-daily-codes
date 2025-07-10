@@ -1,4 +1,4 @@
-public class BoxingUnboxing{
+   public class BoxingUnboxing{
     public static void main(String[] args){
         int a =50;
         Integer obj = a; // Boxing: converting primitive to object
