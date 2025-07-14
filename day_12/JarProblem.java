@@ -27,6 +27,7 @@ public class JarProblem{
                         jars[index] = 0; // Prevent negative candies
                     }
                 }
+                
             }
 
             System.out.println("Final state of jars:");
