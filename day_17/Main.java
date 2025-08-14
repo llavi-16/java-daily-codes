@@ -1,5 +1,5 @@
 public class Main {
-    static class TreeNode {
+    static class TreeNode {    
         TreeNode left, right;
 
         TreeNode(int item) {
